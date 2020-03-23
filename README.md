@@ -27,3 +27,5 @@ stock_origin(null= supplier, || location_id, location_id)
 ● Order ( order_date, expected_receive_date, supplier)
 ● Order details ( qty, products, order_id)
 ● Warehouse_1 -> Shelf_1 -> row_1 -> cell_b // не е таблица (примерна локация)
+
+// 
